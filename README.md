@@ -73,6 +73,4 @@ Feel free to reach out via the following platforms:
 - [LinkedIn](https://www.linkedin.com/in/bhagwan-gharti-magar-5762901a5)
 - Email: magarbhagwan66@gmail.com
 
----
 
-Thank you for visiting my portfolio! I look forward to connecting and collaborating on exciting projects.
