@@ -1,6 +1,5 @@
-# Bhagwan Gharti Magar - Personal Portfolio
-
-Welcome to my personal portfolio! I am a passionate Software Developer with a focus on web development technologies. This portfolio showcases my skills, education, experience, and projects I've worked on.
+# Bhagwan Gharti Magar 
+This resume showcases my skills, education, experience, and projects I've worked on.
 
 ## Table of Contents
 
@@ -65,12 +64,5 @@ I am a dedicated software developer with experience in building web applications
 - English
 - Nepali
 
-## Connect with Me
-
-Feel free to reach out via the following platforms:
-
-- [GitHub](https://github.com/Bhagwan06)
-- [LinkedIn](https://www.linkedin.com/in/bhagwan-gharti-magar-5762901a5)
-- Email: magarbhagwan66@gmail.com
 
 
